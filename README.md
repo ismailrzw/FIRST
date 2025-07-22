@@ -1,1 +1,1 @@
-#Hello this is my first ever professional commit
+Well I'm practicing git and terminal commands
